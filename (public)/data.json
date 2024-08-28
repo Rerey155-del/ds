@@ -1,0 +1,162 @@
+{
+  "akun": [
+    { "id": 1, "username": "Rerey", "password": "123" },
+    { "id": 2, "username": "abdi", "password": "123" },
+    { "id": 3, "username": "sip", "password": "123" },
+    { "id": 4, "username": "Yunita", "password": "123" },
+    { "id": 5, "username": "Pengguna", "password": "123" }
+  ],
+  "barang": [
+    {
+      "id": 1,
+      "nama_barang": "ASUS ROG Zephyrus G14",
+      "harga": 18000000,
+      "gambar": "https://tabloidpulsa.id/wp-content/uploads/2022/06/Review-ASUS-ROG-Zephyrus-G14-2022_main.jpg",
+      "deskripsi": "Laptop gaming dengan prosesor AMD Ryzen 9 dan GPU NVIDIA GeForce RTX 3060, dilengkapi dengan layar 14 inci dengan refresh rate 120Hz."
+    },
+    {
+      "id": 2,
+      "nama_barang": "Iphone 13 PRO",
+      "harga": 16000000,
+      "gambar": "https://completeselular.co.id/wp-content/uploads/2022/04/ip-13-pro-grey.jpg",
+      "deskripsi": "Smartphone Apple dengan layar Super Retina XDR 6,1 inci, chip A15 Bionic, dan sistem kamera Pro dengan sensor LiDAR."
+    },
+    {
+      "id": 3,
+      "nama_barang": "Smart TV Samsung 55 Inch QLED",
+      "harga": 12000000,
+      "gambar": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full/catalog-image/103/MTA-154914493/no-brand_no-brand_full05.jpg",
+      "deskripsi": "Smart TV dengan resolusi 4K UHD, dukungan HDR10+, dan platform Tizen untuk akses ke berbagai aplikasi streaming."
+    },
+    {
+      "id": 4,
+      "nama_barang": "Samsung A55",
+      "harga": 3000000,
+      "gambar": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full/catalog-image/99/MTA-163534617/samsung_samsung_a55_5g_8-256gb_full01_b60b76f7.jpg",
+      "deskripsi": "Smart TV dengan resolusi 4K UHD, dukungan HDR10+, dan platform Tizen untuk akses ke berbagai aplikasi streaming."
+    },
+    {
+      "id": 5,
+      "nama_barang": "Headphone Sony WH-1000XM4",
+      "harga": 12000000,
+      "gambar": "https://images.tokopedia.net/img/cache/700/VqbcmM/2022/9/1/db2d97b3-360d-45ae-ba3c-b7f52aebcb61.jpg",
+      "deskripsi": "Headphone nirkabel dengan teknologi peredam bising terdepan, dukungan codec LDAC, dan baterai tahan hingga 30 jam."
+    },
+    {
+      "id": 6,
+      "nama_barang": "PlayStation 5",
+      "harga": 12000000,
+      "gambar": "https://asset.kompas.com/crops/c67cAjAgm4xXmB4VoqAUfI062Nk=/0x0:1620x1080/750x500/data/photo/2023/10/11/6525f3054fad9.jpg",
+      "deskripsi": "Konsol game generasi terbaru dari Sony dengan SSD ultra cepat, dukungan ray tracing, dan DualSense controller yang inovatif."
+    },
+    {
+      "id": 7,
+      "nama_barang": "T-shirt polos",
+      "harga": 100000,
+      "gambar": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2022/4/30/8b41f091-231c-48c8-8f8b-36f68305716b.jpg",
+      "deskripsi": "T-shirt polos berbahan katun yang nyaman dipakai sehari-hari."
+    },
+    {
+      "id": 8,
+      "nama_barang": "Jeans Skinny",
+      "harga": 16000000,
+      "gambar": "https://img.lazcdn.com/g/p/b39b5ddb9e60ef6fdbf54c3c0fd32946.jpg_720x720q80.jpg",
+      "deskripsi": "Jeans skinny dengan potongan modern, cocok untuk gaya kasual."
+    },
+    {
+      "id": 9,
+      "nama_barang": "Sneakers Putih",
+      "harga": 12000000,
+      "gambar": "https://images.tokopedia.net/img/cache/700/VqbcmM/2022/12/29/09bcb30a-92c3-4aa8-a9aa-2d3299d51fd5.jpg",
+      "deskripsi": "Sneakers putih yang stylish dan nyaman untuk aktivitas sehari-hari."
+    },
+    {
+      "id": 10,
+      "nama_barang": "Jaket Denim",
+      "harga": 12000000,
+      "gambar": "https://images.tokopedia.net/img/cache/700/VqbcmM/2022/11/16/0b383e80-7696-4fad-a756-378101d4253d.jpg",
+      "deskripsi": "Jaket denim klasik dengan kualitas bahan yang tahan lama."
+    },
+    {
+      "id": 11,
+      "nama_barang": "Topi Baseball",
+      "harga": 12000000,
+      "gambar": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2022/7/2/5cc5a876-485d-4148-bc3d-a7a3f15d4551.jpg",
+      "deskripsi": "Topi baseball yang trendi dan melindungi dari sinar matahari."
+    },
+    {
+      "id": 12,
+      "nama_barang": "Kemeja Flanel Pria",
+      "harga": 12000000,
+      "gambar": "https://img.lazcdn.com/g/p/b39b5ddb9e60ef6fdbf54c3c0fd32946.jpg_720x720q80.jpg",
+      "deskripsi": "Kemeja flanel berbahan katun yang nyaman digunakan sehari-hari."
+    }
+  ],
+  "barangBaru": [
+    {
+      "id": 1,
+      "nama_barang": "Samsung Galaxy S21",
+      "harga": 18000000,
+      "gambar": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//97/MTA-23721658/samsung_samsung_galaxy_s21_g991b_-_8-256gb_full05_ufkxufoz.jpg",
+      "deskripsi": "Smartphone dengan layar Super AMOLED 6.2 inci, prosesor Exynos 2100, dan kamera belakang triple 64 MP"
+    },
+    {
+      "id": 2,
+      "nama_barang": "Dell XPS 13",
+      "harga": 16000000,
+      "gambar": "https://images.tokopedia.net/img/cache/700/OJWluG/2022/7/20/d5128486-cd11-4e48-9cf7-afa892a8ed02.jpg?ect=4g",
+      "deskripsi": "Laptop ultra-portable dengan layar InfinityEdge 13.4 inci, prosesor Intel Core i7, dan RAM 16 GB."
+    },
+    {
+      "id": 3,
+      "nama_barang": "LG OLED55CX",
+      "harga": 12000000,
+      "gambar": "https://wahanasuperstore.com/asset/img/product/Televisi%20-%20Audio/Televisi/OLED55CX%20wahana.jpg",
+      "deskripsi": "Smart TV dengan resolusi 4K UHD, dukungan HDR10+, dan platform Tizen untuk akses ke berbagai aplikasi streaming."
+    },
+    {
+      "id": 4,
+      "nama_barang": "Bose QuietComfort 35 II",
+      "harga": 3000000,
+      "gambar": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//98/MTA-52734743/oem_bose_quietcomfort_35_ii_headphone_full02_koid5uwj.jpg",
+      "deskripsi": "Headphone over-ear dengan fitur noise-cancelling, Bluetooth, dan kualitas suara yang jernih."
+    },
+    {
+      "id": 5,
+      "nama_barang": "Canon EOS Rebel T7i",
+      "harga": 12000000,
+      "gambar": "https://i.ebayimg.com/images/g/vmAAAOSwr3Bd06o~/s-l1200.webp",
+      "deskripsi": "Kamera DSLR dengan sensor APS-C 24.2 MP, layar sentuh, dan sistem autofokus 45 titik."
+    },
+    {
+      "id": 6,
+      "nama_barang": "Apple iPad Air (4th Generation)",
+      "harga": 12000000,
+      "gambar": "https://media.dinomarket.com/docs/imgTD/2020-11/pic_ipadair_silver1_261120231123_ll.jpg.jpg",
+      "deskripsi": "Tablet 10.9 inci dengan chip A14 Bionic, layar Retina, dan dukungan Apple Pencil"
+    }
+  ],
+  "video": [
+    {
+      "id": 1,
+      "judul": "Video Tutorial React Native",
+      "url": "WhatsApp Video 2024-08-22 at 18.34.06_3abebd13.mp4",
+      "thumbnail": "https://www.example.com/thumb1.jpg",
+      "deskripsi": "Tutorial singkat tentang cara membuat aplikasi menggunakan React Native."
+    },
+    {
+      "id": 2,
+      "judul": "Unboxing iPhone 13 Pro",
+      "url": "https://vt.tiktok.com/ZS2jcguSL/",
+      "thumbnail": "https://www.example.com/thumb2.jpg",
+      "deskripsi": "Video unboxing iPhone 13 Pro dengan detail dan kesan pertama."
+    },
+    {
+      "id": 3,
+      "judul": "Review PlayStation 5",
+      "url": "https://vt.tiktok.com/ZS2jcVV97/",
+      "thumbnail": "https://www.example.com/thumb3.jpg",
+      "deskripsi": "Review mendalam tentang PlayStation 5, fitur-fitur, dan performanya."
+    }
+  ]
+}

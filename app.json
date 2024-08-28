@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "shopee",
+    "slug": "shopee",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.rerey.shopee"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "jsEngine": "jsc",
+    "extra": {
+      "eas": {
+        "projectId": "c816d3aa-d877-4d35-b3b8-1a17745d766b"
+      }
+    }
+  }
+}
