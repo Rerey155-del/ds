@@ -70,10 +70,6 @@ Proyek ini juga terintegrasi dengan Firebase untuk manajemen data real-time. Pas
 
 Aplikasi ini mencakup fitur autentikasi dasar yang memungkinkan pengguna untuk login sebelum mengelola keranjang atau melakukan pembelian. Logika autentikasi diatur menggunakan JSON Server, dengan kemungkinan pengembangan lebih lanjut menggunakan Firebase Authentication atau layanan lainnya di masa depan.
 
-## Kontribusi
-
-Silakan fork proyek ini dan kirim pull request. Kontribusi selalu diterima dengan senang hati!
-
 ## Lisensi
 
 Proyek ini dilisensikan di bawah Lisensi MIT.
