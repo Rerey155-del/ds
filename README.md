@@ -49,7 +49,7 @@ Shopee Clone adalah aplikasi mobile yang dibangun menggunakan React Native dan E
    Mulai JSON Server:
 
    ```bash
-   json-server --watch db.json --port 3000
+   json-server --watch data.json --port 3000
    ```
 
 6. **Jalankan Aplikasi di Emulator atau Perangkat Fisik:**
@@ -57,9 +57,9 @@ Shopee Clone adalah aplikasi mobile yang dibangun menggunakan React Native dan E
 
 ## Backend
 
-Backend untuk aplikasi ini menggunakan JSON Server, sebuah backend ringan untuk keperluan prototipe dan pengujian. Anda dapat mengelola data produk dan mensimulasikan panggilan API menggunakan file `db.json`.
+Backend untuk aplikasi ini menggunakan JSON Server, sebuah backend ringan untuk keperluan prototipe dan pengujian. Anda dapat mengelola data produk dan mensimulasikan panggilan API menggunakan file `data.json`.
 
-* **Data Produk:** Disimpan di dalam file `db.json`.
+* **Data Produk:** Disimpan di dalam file `data.json`.
 * **Autentikasi:** Autentikasi dasar diimplementasikan melalui JSON Server.
 
 ## Konfigurasi Firebase
